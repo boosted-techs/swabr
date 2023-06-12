@@ -1,0 +1,21 @@
+**RazerTech Stock Manager**
+
+**Database Name: inventorysalesci**
+
+**Developed by RazerTech**
+
+**Recommended PHP Version 5.6.3 **
+
+
+**Admin Login Details**
+
+Email   : admin@gmail.com
+Password: Password@123
+
+**Employee Login Details**
+
+Email : ascendemmy99@gmail.com
+Password : ascendemmy99@gmail.com
+
+Email   : stephen@gmail.com
+Password: password

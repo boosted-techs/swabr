@@ -1,0 +1,18 @@
+**Log on to codeastro.com for more projects!**
+
+**Database Name: inventorysalesci**
+
+**Developed by Amir Sanni**
+
+**Recommended PHP Version 5.6.3 and Newer**
+
+
+**Admin Login Details**
+
+Email   : admin@gmail.com
+Password: Password@123
+
+**Employee Login Details**
+
+Email   : stephen@gmail.com
+Password: password
